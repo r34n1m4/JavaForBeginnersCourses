@@ -1,0 +1,2 @@
+# JetBrains_JavaForBeginnersCourse
+Practical tasks completion progress
